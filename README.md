@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Gary Alexander Josue Aju Chuta 👋
+
+
 
 <!--
 **GaryAlexAC/GaryAlexAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
