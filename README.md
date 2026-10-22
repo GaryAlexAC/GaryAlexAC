@@ -3,6 +3,7 @@
 # Hi, I'm Gary Aju 👋
 
 
+### CS Student · FullStack developer · DevOps / Platform Engineer
 ### I’m interested in working with modular and microservices architectures.
 
 ---
