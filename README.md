@@ -1,6 +1,11 @@
-## Hi, I'm Gary Alexander Josue Aju Chuta 👋
+<div align="center">
+## Hi, I'm Gary Aju 👋
 
+I love helping people, sharing ideas, and creating tools that shape our future.
+I’m interested in working with modular and microservices architectures.
 
+# About me
+</div>
 
 <!--
 **GaryAlexAC/GaryAlexAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
