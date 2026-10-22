@@ -1,11 +1,11 @@
 <div align="center">
 
-## Hi, I'm Gary Aju 👋
+# Hi, I'm Gary Aju 👋
 
-I love helping people, sharing ideas, and creating tools that shape our future.
-I’m interested in working with modular and microservices architectures.
 
-# About me
+### I’m interested in working with modular and microservices architectures.
+
+---
 
 </div>
 
