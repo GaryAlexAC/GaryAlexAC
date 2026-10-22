@@ -5,10 +5,14 @@
 
 ### CS Student · FullStack developer · DevOps / Platform Engineer
 ### I’m interested in working with modular and microservices architectures.
+#### Guatemala City, Guatemala
 
 ---
 
 </div>
+
+## 🧑‍💻 About Me
+
 
 <!--
 **GaryAlexAC/GaryAlexAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
